@@ -1,0 +1,10 @@
+{
+  "id": 176377705,
+  "created_at": "2026-10-29T01:16:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["okanbulut.r-universe.dev"]
+}
